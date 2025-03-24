@@ -1,0 +1,1300 @@
+2025-01-13 03:24:54 -  - exec CUpdateClient::GetUpdatesList
+2025-01-13 03:24:54 -  - exec CUpdateClient::CollectRequestData
+2025-01-13 03:24:54 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uropro.webiew.ru&SERVER_NAME=&CHHB=uropro.webiew.ru&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.20&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_security=24.0.0&bitm_iblock=24.0.200&bitm_translate=24.0.0&bitm_seo=24.300.0&bitm_search=24.0.0&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_clouds=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_bitrixcloud=24.0.0&bitm_rest=24.500.0&bitm_b24connector=24.0.0&bitm_fileman=24.100.0&bitm_ui=24.300.0&bitm_perfmon=24.0.0&bitm_landing=24.400.300&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-01-13 03:24:54 -  - exec CUpdateClient::GetHTTPPage
+2025-01-13 03:24:54 -  - TIME GetUpdatesList(request) 0.052 sec
+2025-01-13 03:24:54 -  - exec CUpdateClient::ParseServerData
+2025-01-13 03:24:54 -  - exec CUpdateClient::executeCounters
+2025-01-13 03:24:54 -  - exec CUpdateClient::CollectRequestData
+2025-01-13 03:24:54 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=uropro.webiew.ru&SERVER_NAME=&CHHB=uropro.webiew.ru&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.20&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_security=24.0.0&bitm_iblock=24.0.200&bitm_translate=24.0.0&bitm_seo=24.300.0&bitm_search=24.0.0&bitm_location=24.100.0&bitm_messageservice=24.500.0&bitm_clouds=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_bitrixcloud=24.0.0&bitm_rest=24.500.0&bitm_b24connector=24.0.0&bitm_fileman=24.100.0&bitm_ui=24.300.0&bitm_perfmon=24.0.0&bitm_landing=24.400.300&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[442]=
+2025-01-13 03:24:54 -  - exec CUpdateClient::GetHTTPPage
+2025-01-13 03:24:54 -  - TIME executeCounters 0.048 sec
+2025-02-24 21:50:29 -  - exec CUpdateClient::GetUpdatesList
+2025-02-24 21:50:29 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:50:29 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:50:29 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:50:29 -  - TIME GetUpdatesList(request) 0.079 sec
+2025-02-24 21:50:29 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:50:29 -  - exec CUpdateClient::executeCounters
+2025-02-24 21:50:29 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:50:29 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[442]=
+2025-02-24 21:50:29 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:50:30 -  - TIME executeCounters 0.064 sec
+2025-02-24 21:55:00 -  - exec CUpdateClient::GetUpdatesList
+2025-02-24 21:55:00 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:55:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:55:00 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:55:00 -  - TIME GetUpdatesList(request) 0.061 sec
+2025-02-24 21:55:00 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:55:00 -  - exec CUpdateClient::executeCounters
+2025-02-24 21:55:00 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:55:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[442]=
+2025-02-24 21:55:00 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:55:00 -  - TIME executeCounters 0.065 sec
+2025-02-24 21:55:44 -  - exec CUpdateClient::GetUpdatesList
+2025-02-24 21:55:44 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:55:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:55:44 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:55:44 -  - TIME GetUpdatesList(request) 0.067 sec
+2025-02-24 21:55:44 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:55:44 -  - exec CUpdateClient::executeCounters
+2025-02-24 21:55:44 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:55:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[442]=
+2025-02-24 21:55:44 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:55:45 -  - TIME executeCounters 0.122 sec
+2025-02-24 21:55:45 -  - exec CUpdateClient::GetUpdatesList
+2025-02-24 21:55:45 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:55:45 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:55:45 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:55:45 -  - TIME GetUpdatesList(request) 0.072 sec
+2025-02-24 21:55:45 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:55:56 -  - exec CUpdateClient::UpdateUpdate
+2025-02-24 21:55:56 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:55:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=updateupdate
+2025-02-24 21:55:56 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:55:56 -  - TIME UpdateUpdate(request) 0.32 sec
+2025-02-24 21:55:56 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:55:56 -  - TIME UnGzipArchive 0.01 sec
+2025-02-24 21:55:56 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:55:56 - CURV - Update updated successfully!
+2025-02-24 21:55:56 - UPD_SUCCESS - Update system updated
+2025-02-24 21:56:35 -  - exec CUpdateClient::GetUpdatesList
+2025-02-24 21:56:35 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:35 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:35 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:35 -  - TIME GetUpdatesList(request) 0.087 sec
+2025-02-24 21:56:35 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:44 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:44 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.100.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:44 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:44 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2025-02-24 21:56:44 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:44 - S - STEP
+2025-02-24 21:56:44 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:44 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:44 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:44 -  - loadFile
+2025-02-24 21:56:44 - U - RETURN
+2025-02-24 21:56:44 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:44 -  - TIME UnGzipArchive 0.01 sec
+2025-02-24 21:56:44 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423404/fileman/updater24.200.0.php'
+2025-02-24 21:56:44 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423404/fileman/updater24.200.0.php': CopyFiles(install/components, components)
+2025-02-24 21:56:44 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423404/fileman/updater24.200.0.php': CopyFiles(install/js, js)
+2025-02-24 21:56:44 -  - TIME UpdateStepModules 0.013 sec
+2025-02-24 21:56:44 - UPD_SUCCESS - Updated: fileman (24.200.0)<br><li>Исправлена ошибка, мешающая работать с текстовым редактором из-за строки копилота. 
+2025-02-24 21:56:44 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:44 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.200.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:44 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:44 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2025-02-24 21:56:44 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:44 - S - STEP
+2025-02-24 21:56:44 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:44 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:44 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:44 -  - loadFile
+2025-02-24 21:56:44 - U - RETURN
+2025-02-24 21:56:44 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:44 -  - TIME UnGzipArchive 0.004 sec
+2025-02-24 21:56:44 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423404/fileman/updater24.200.100.php'
+2025-02-24 21:56:44 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423404/fileman/updater24.200.100.php': CopyFiles(install/js, js)
+2025-02-24 21:56:45 -  - TIME UpdateStepModules 0.005 sec
+2025-02-24 21:56:45 - UPD_SUCCESS - Updated: fileman (24.200.100)<br><li>Исправлена ошибка переноса строки в браузере Google Chrome в macOS. 
+2025-02-24 21:56:45 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:45 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:45 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.200.100&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:45 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:45 -  - TIME LoadModulesUpdates(request) 0.074 sec
+2025-02-24 21:56:45 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:45 - S - STEP
+2025-02-24 21:56:45 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:45 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:45 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:45 -  - loadFile
+2025-02-24 21:56:45 - U - RETURN
+2025-02-24 21:56:45 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:45 -  - TIME UnGzipArchive 0.025 sec
+2025-02-24 21:56:45 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423405/fileman/updater24.300.0.php'
+2025-02-24 21:56:45 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423405/fileman/updater24.300.0.php': CopyFiles(install/js, js)
+2025-02-24 21:56:45 -  - TIME UpdateStepModules 0.036 sec
+2025-02-24 21:56:45 - UPD_SUCCESS - Updated: fileman (24.300.0)<br><li>Доработан Copilot для внедрения в карточку товара. 
+2025-02-24 21:56:46 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:46 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:46 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.0.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:46 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:46 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2025-02-24 21:56:46 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:46 - S - STEP
+2025-02-24 21:56:46 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:46 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:46 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:46 -  - loadFile
+2025-02-24 21:56:46 - U - RETURN
+2025-02-24 21:56:46 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:46 -  - TIME UnGzipArchive 0.058 sec
+2025-02-24 21:56:46 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423406/iblock/updater24.100.0/index.php'
+2025-02-24 21:56:46 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1740423406/iblock/updater24.100.0/index.php': Query(create index ix_iblock_element_name on b_iblock_element(IBLOCK_ID, NAME), )
+2025-02-24 21:56:46 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1740423406/iblock/updater24.100.0/index.php': Query(create index ix_iblock_code on b_iblock (CODE), )
+2025-02-24 21:56:46 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423406/iblock/updater24.100.0/index.php': CopyFiles(install/components, components)
+2025-02-24 21:56:46 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423406/iblock/updater24.100.0/index.php': CopyFiles(install/js, js)
+2025-02-24 21:56:46 -  - TIME UpdateStepModules 0.146 sec
+2025-02-24 21:56:46 - UPD_SUCCESS - Updated: iblock (24.100.0)<br><li>В пользовательские поля типов \"Привязка к элементам инфоблоков\" и \"Привязка к разделам инфоблоков\" добавлены режимы отображения \"Набираемый список\" и \"Диалог выбора\" (для использования новых возможностей в crm необходима версия модуля crm 24.600.0 и выше). <li>Настройки фильтра и списка товаров в каталоге Б24 переведены на использование нового интерфейса. <li>Исправлена выгрузка в csv свойств типа \"Привязка к товарам (SKU)\". <li>Улучшена производительность проверки существования элемента инфоблока в бизнес-процессах. <li>Исправлено копирование универсальных списков при отсутствии символьных кодов свойств. <li>Исправлено копирование универсальных списков на PostgreSQL. <li>Исправлена ошибка редактирования свойства типа \"Привязка к товарам (SKU)\", приводившая к потере связи \"товар - торговое предложение (вариация)\". <li>Исправлена ошибка, возникавшая при снятии с паузы бизнес-процесса, если в инфоблоке есть свойство типа \"Привязка к элементам\". <li>Разработчикам: для класса CIBlockType добавлен метод getLastError, возвращающий последнюю ошибку. Прямое обращение к свойству LAST_ERROR этого класса больше не рекомендуется. <li>Разработчикам: улучшена производительность метода CIBlockElement::GetList для случая проверки прав и постраничной навигации.
+2025-02-24 21:56:47 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:47 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:47 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.100.0&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:47 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:47 -  - TIME LoadModulesUpdates(request) 0.067 sec
+2025-02-24 21:56:47 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:47 - S - STEP
+2025-02-24 21:56:47 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:47 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:47 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:47 -  - loadFile
+2025-02-24 21:56:47 - U - RETURN
+2025-02-24 21:56:47 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:47 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:56:47 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423407/iblock/updater24.100.100/index.php'
+2025-02-24 21:56:47 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423407/iblock/updater24.100.100/index.php': CopyFiles(install/components, components)
+2025-02-24 21:56:47 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:56:47 - UPD_SUCCESS - Updated: iblock (24.100.100)<br><li>Исправлена сортировка в пользовательских поля типа \"Привязка к разделам инфоблоков\" для режимов \"Список\" и \"Флажки\".
+2025-02-24 21:56:47 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:47 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:47 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.100.100&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:47 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:47 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2025-02-24 21:56:47 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:47 - S - STEP
+2025-02-24 21:56:47 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:47 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:47 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:47 -  - loadFile
+2025-02-24 21:56:47 - U - RETURN
+2025-02-24 21:56:47 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:47 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:56:47 -  - TIME UpdateStepModules 0.001 sec
+2025-02-24 21:56:47 - UPD_SUCCESS - Updated: iblock (24.100.200)<br><li>На странице редактирования свойства в административном разделе не показывался инфоблок, указанный в свойствах типов \"Привязка к элементам\" и \"Привязка к разделам\".
+2025-02-24 21:56:48 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:48 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:48 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.100.200&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:48 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:48 -  - TIME LoadModulesUpdates(request) 0.062 sec
+2025-02-24 21:56:48 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:48 - S - STEP
+2025-02-24 21:56:48 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:48 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:48 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:48 -  - loadFile
+2025-02-24 21:56:48 - U - RETURN
+2025-02-24 21:56:48 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:48 -  - TIME UnGzipArchive 0.037 sec
+2025-02-24 21:56:48 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423408/iblock/updater24.200.0/index.php'
+2025-02-24 21:56:48 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423408/iblock/updater24.200.0/index.php': CopyFiles(install/components, components)
+2025-02-24 21:56:48 -  - TIME UpdateStepModules 0.053 sec
+2025-02-24 21:56:48 - UPD_SUCCESS - Updated: iblock (24.200.0)<br><li>Ускорена работа пользовательских полей типа \"Привязка к разделам инфоблока\". <li>Незначительно улучшена производительность xml-импорта.
+2025-02-24 21:56:49 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:49 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:49 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.0.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:49 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:49 -  - TIME LoadModulesUpdates(request) 0.072 sec
+2025-02-24 21:56:49 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:49 - S - STEP
+2025-02-24 21:56:49 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:49 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:49 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:49 -  - loadFile
+2025-02-24 21:56:49 - U - RETURN
+2025-02-24 21:56:49 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:49 -  - TIME UnGzipArchive 0.012 sec
+2025-02-24 21:56:49 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423409/translate/updater24.100.0.php'
+2025-02-24 21:56:49 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423409/translate/updater24.100.0.php': CopyFiles(install/components, components)
+2025-02-24 21:56:49 -  - TIME UpdateStepModules 0.023 sec
+2025-02-24 21:56:49 - UPD_SUCCESS - Updated: translate (24.100.0)<br><li>Исправлена ошибка на поиске фразы, содержащей символ %.
+2025-02-24 21:56:49 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:49 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:49 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.0.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:49 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:49 -  - TIME LoadModulesUpdates(request) 0.082 sec
+2025-02-24 21:56:49 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:49 - S - STEP
+2025-02-24 21:56:49 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:49 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:49 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:49 -  - loadFile
+2025-02-24 21:56:49 - U - RETURN
+2025-02-24 21:56:49 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:49 -  - TIME UnGzipArchive 0.009 sec
+2025-02-24 21:56:49 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423409/perfmon/updater24.100.0/index.php'
+2025-02-24 21:56:49 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423409/perfmon/updater24.100.0/index.php': CopyFiles(install/wizards, wizards)
+2025-02-24 21:56:49 -  - TIME UpdateStepModules 0.013 sec
+2025-02-24 21:56:50 - UPD_SUCCESS - Updated: perfmon (24.100.0)<br><li>Добавлена поддержка нескольких подключений при работе с таблицами в административном разделе. <li>В редакторе таблиц добавлена поддержка работы с NULL. <li>Улучшения и исправления мастера миграции на PostgreSQL. 
+2025-02-24 21:56:50 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:50 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.300.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:50 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:50 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2025-02-24 21:56:50 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:50 - S - STEP
+2025-02-24 21:56:50 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:50 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:50 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:50 -  - loadFile
+2025-02-24 21:56:50 - U - RETURN
+2025-02-24 21:56:50 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:50 -  - TIME UnGzipArchive 0.004 sec
+2025-02-24 21:56:50 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423410/seo/updater24.400.0.php'
+2025-02-24 21:56:50 -  - TIME UpdateStepModules 0.004 sec
+2025-02-24 21:56:50 - UPD_SUCCESS - Updated: seo (24.400.0)<br><li>Исправлена ошибка при авторизации на внешних сервисах (ретаргетинг, платёжные системы и т.д.).
+2025-02-24 21:56:51 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:51 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.400.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:51 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:51 -  - TIME LoadModulesUpdates(request) 0.091 sec
+2025-02-24 21:56:51 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:51 - S - STEP
+2025-02-24 21:56:51 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:51 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:51 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:51 -  - loadFile
+2025-02-24 21:56:51 - U - RETURN
+2025-02-24 21:56:51 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:51 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:56:51 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423411/seo/updater24.500.0.php'
+2025-02-24 21:56:51 -  - TIME UpdateStepModules 0.003 sec
+2025-02-24 21:56:51 - UPD_SUCCESS - Updated: seo (24.500.0)<br><li>Исправлена ошибка генерации карты сайты на больших инфоблоках.
+2025-02-24 21:56:51 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:51 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.0.200&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.500.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:51 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:51 -  - TIME LoadModulesUpdates(request) 0.061 sec
+2025-02-24 21:56:51 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:51 - S - STEP
+2025-02-24 21:56:51 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:52 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:52 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:52 -  - loadFile
+2025-02-24 21:56:52 - U - RETURN
+2025-02-24 21:56:52 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:52 -  - TIME UnGzipArchive 0.011 sec
+2025-02-24 21:56:52 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423412/socialservices/updater24.100.0.php'
+2025-02-24 21:56:52 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423412/socialservices/updater24.100.0.php': CopyFiles(install/components, components)
+2025-02-24 21:56:52 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423412/socialservices/updater24.100.0.php': CopyFiles(install/gadgets, gadgets)
+2025-02-24 21:56:52 -  - TIME UpdateStepModules 0.019 sec
+2025-02-24 21:56:52 - UPD_SUCCESS - Updated: socialservices (24.100.0)<br><li>Исправлено название социальной сети X (бывшей Twitter). <li>Оптимизация кода и исправление предупреждений PHP. 
+2025-02-24 21:56:52 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:52 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:52 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.500.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:52 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:52 -  - TIME LoadModulesUpdates(request) 0.075 sec
+2025-02-24 21:56:52 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:52 - S - STEP
+2025-02-24 21:56:52 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:52 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:52 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:52 -  - loadFile
+2025-02-24 21:56:52 - U - RETURN
+2025-02-24 21:56:52 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:52 -  - TIME UnGzipArchive 0.004 sec
+2025-02-24 21:56:52 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423412/seo/updater24.600.0.php'
+2025-02-24 21:56:52 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423412/seo/updater24.600.0.php': CopyFiles(install/js, js)
+2025-02-24 21:56:52 -  - TIME UpdateStepModules 0.007 sec
+2025-02-24 21:56:52 - UPD_SUCCESS - Updated: seo (24.600.0)<br><li>Добавлена поддержка получения информации по дням для расходов сквозной аналитики в источниках данных BI Конструктора.
+2025-02-24 21:56:53 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:53 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:53 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.600.0&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:53 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:53 -  - TIME LoadModulesUpdates(request) 0.088 sec
+2025-02-24 21:56:53 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:53 - S - STEP
+2025-02-24 21:56:53 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:53 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:53 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:53 -  - loadFile
+2025-02-24 21:56:53 - U - RETURN
+2025-02-24 21:56:53 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:53 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:56:53 -  - TIME UpdateStepModules 0.001 sec
+2025-02-24 21:56:53 - UPD_SUCCESS - Updated: seo (24.600.100)<br><li>Исправлена ошибка обработки данных из ВК.
+2025-02-24 21:56:53 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:53 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:53 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.100.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:53 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:53 -  - TIME LoadModulesUpdates(request) 0.064 sec
+2025-02-24 21:56:53 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:53 - S - STEP
+2025-02-24 21:56:53 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:53 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:53 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:53 -  - loadFile
+2025-02-24 21:56:53 - U - RETURN
+2025-02-24 21:56:53 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:53 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:56:53 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423413/clouds/updater24.200.0/index.php'
+2025-02-24 21:56:53 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423413/clouds/updater24.200.0/index.php': CopyFiles(install/admin, admin)
+2025-02-24 21:56:53 -  - TIME UpdateStepModules 0.006 sec
+2025-02-24 21:56:53 - UPD_SUCCESS - Updated: clouds (24.200.0)<br><li>Добавлено s3-совместимое облачное хранилище Selectel.
+2025-02-24 21:56:54 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:54 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:54 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.200.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:54 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:54 -  - TIME LoadModulesUpdates(request) 0.076 sec
+2025-02-24 21:56:54 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:54 - S - STEP
+2025-02-24 21:56:54 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:54 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:54 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:54 -  - loadFile
+2025-02-24 21:56:54 - U - RETURN
+2025-02-24 21:56:54 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:54 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:56:54 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423414/clouds/updater24.300.0/index.php'
+2025-02-24 21:56:54 -  - TIME UpdateStepModules 0.004 sec
+2025-02-24 21:56:54 - UPD_SUCCESS - Updated: clouds (24.300.0)<br><li>Важно! Изменение в API HotBox (VK Cloud) для работы с регионами. 
+2025-02-24 21:56:54 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:54 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:54 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.300.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:54 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:55 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2025-02-24 21:56:55 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:55 - S - STEP
+2025-02-24 21:56:55 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:55 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:55 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:55 -  - loadFile
+2025-02-24 21:56:55 - U - RETURN
+2025-02-24 21:56:55 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:55 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:56:55 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423415/clouds/updater24.400.0/index.php'
+2025-02-24 21:56:55 -  - TIME UpdateStepModules 0.003 sec
+2025-02-24 21:56:55 - UPD_SUCCESS - Updated: clouds (24.400.0)<br><li>Незначительные исправления. 
+2025-02-24 21:56:55 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:55 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:55 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.0.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:55 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:55 -  - TIME LoadModulesUpdates(request) 0.073 sec
+2025-02-24 21:56:55 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:55 - S - STEP
+2025-02-24 21:56:55 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:55 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:55 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:55 -  - loadFile
+2025-02-24 21:56:55 - U - RETURN
+2025-02-24 21:56:55 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:55 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:56:55 -  - TIME UpdateStepModules 0.003 sec
+2025-02-24 21:56:55 - UPD_SUCCESS - Updated: bitrixcloud (24.100.0)<br><li>Добавлена поддержка резервного копирования в Yandex Cloud. 
+2025-02-24 21:56:56 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:56 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.500.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:56 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:56 -  - TIME LoadModulesUpdates(request) 0.069 sec
+2025-02-24 21:56:56 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:56 - S - STEP
+2025-02-24 21:56:56 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:56 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:56 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:56 -  - loadFile
+2025-02-24 21:56:56 - U - RETURN
+2025-02-24 21:56:56 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:56 -  - TIME UnGzipArchive 0.003 sec
+2025-02-24 21:56:56 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423416/rest/updater24.550.0.php'
+2025-02-24 21:56:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423416/rest/updater24.550.0.php': CopyFiles(install/js, js)
+2025-02-24 21:56:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423416/rest/updater24.550.0.php': CopyFiles(install/components, components)
+2025-02-24 21:56:56 -  - TIME UpdateStepModules 0.007 sec
+2025-02-24 21:56:56 - UPD_SUCCESS - Updated: rest (24.550.0)<br><li>Исправлены интерфейсные ошибки.
+2025-02-24 21:56:56 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:56 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.550.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:56 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:56 -  - TIME LoadModulesUpdates(request) 0.065 sec
+2025-02-24 21:56:56 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:56 - S - STEP
+2025-02-24 21:56:56 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:57 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:57 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:57 -  - loadFile
+2025-02-24 21:56:57 - U - RETURN
+2025-02-24 21:56:57 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:57 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:56:57 -  - TIME UpdateStepModules 0.001 sec
+2025-02-24 21:56:57 - UPD_SUCCESS - Updated: rest (24.550.100)<br><li>Добавлен метод для ручной отправки событий rest.
+2025-02-24 21:56:57 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:57 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:57 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.550.100&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:57 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:57 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2025-02-24 21:56:57 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:57 - S - STEP
+2025-02-24 21:56:57 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:57 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:57 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:57 -  - loadFile
+2025-02-24 21:56:57 - U - RETURN
+2025-02-24 21:56:57 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:57 -  - TIME UnGzipArchive 0.01 sec
+2025-02-24 21:56:57 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423417/rest/updater24.600.0.php'
+2025-02-24 21:56:57 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423417/rest/updater24.600.0.php': CopyFiles(install/js, js)
+2025-02-24 21:56:57 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423417/rest/updater24.600.0.php': CopyFiles(install/components, components)
+2025-02-24 21:56:57 -  - TIME UpdateStepModules 0.018 sec
+2025-02-24 21:56:57 - UPD_SUCCESS - Updated: rest (24.600.0)<br><li>Улучшена производительность.
+2025-02-24 21:56:58 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:58 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.600.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:58 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:58 -  - TIME LoadModulesUpdates(request) 0.071 sec
+2025-02-24 21:56:58 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:58 - S - STEP
+2025-02-24 21:56:58 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:58 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:58 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:58 -  - loadFile
+2025-02-24 21:56:58 - U - RETURN
+2025-02-24 21:56:58 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:58 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:56:58 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:56:58 - UPD_SUCCESS - Updated: rest (24.700.0)<br><li>Исправлена ошибка, из-за которой могли отправляться не все исходящие события.
+2025-02-24 21:56:58 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:58 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:58 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:58 -  - TIME LoadModulesUpdates(request) 0.075 sec
+2025-02-24 21:56:58 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:58 - S - STEP
+2025-02-24 21:56:58 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:58 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:58 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:58 -  - loadFile
+2025-02-24 21:56:58 - U - RETURN
+2025-02-24 21:56:58 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:58 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:56:58 -  - TIME UpdateStepModules 0.001 sec
+2025-02-24 21:56:58 - UPD_SUCCESS - Updated: messageservice (24.500.100)<br><li>Исправлена ошибка обработки списка каскадов edna.
+2025-02-24 21:56:59 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:59 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.500.100&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:59 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:56:59 -  - TIME LoadModulesUpdates(request) 0.074 sec
+2025-02-24 21:56:59 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:59 - S - STEP
+2025-02-24 21:56:59 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:56:59 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:59 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:56:59 -  - loadFile
+2025-02-24 21:56:59 - U - RETURN
+2025-02-24 21:56:59 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:56:59 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:56:59 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:56:59 - UPD_SUCCESS - Updated: messageservice (24.600.0)<br><li>Отправка файлов в whatsapp через edna. <li>Настройка кодов отправителя для отдельных открытых линий.
+2025-02-24 21:56:59 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:56:59 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:56:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.600.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:56:59 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:00 -  - TIME LoadModulesUpdates(request) 0.067 sec
+2025-02-24 21:57:00 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:00 - S - STEP
+2025-02-24 21:57:00 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:00 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:00 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:00 -  - loadFile
+2025-02-24 21:57:00 - U - RETURN
+2025-02-24 21:57:00 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:00 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:57:00 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:57:00 - UPD_SUCCESS - Updated: messageservice (24.700.0)<br><li>Добавлен метод для обновления провайдера СМС messageservice.sender.update.
+2025-02-24 21:57:00 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:00 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.700.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:00 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:00 -  - TIME LoadModulesUpdates(request) 0.072 sec
+2025-02-24 21:57:00 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:00 - S - STEP
+2025-02-24 21:57:00 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:00 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:00 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:00 -  - loadFile
+2025-02-24 21:57:00 - U - RETURN
+2025-02-24 21:57:00 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:00 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:57:00 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:57:00 - UPD_SUCCESS - Updated: messageservice (24.800.0)<br><li>Исправлен текст ошибки при отправке сообщения из удалённой линии.
+2025-02-24 21:57:01 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:01 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.800.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:01 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:01 -  - TIME LoadModulesUpdates(request) 0.073 sec
+2025-02-24 21:57:01 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:01 - S - STEP
+2025-02-24 21:57:01 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:01 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:01 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:01 -  - loadFile
+2025-02-24 21:57:01 - U - RETURN
+2025-02-24 21:57:01 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:01 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:57:01 -  - TIME UpdateStepModules 0.003 sec
+2025-02-24 21:57:01 - UPD_SUCCESS - Updated: messageservice (24.900.0)<br><li>Оптимизация отправки сообщений.
+2025-02-24 21:57:01 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:01 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.300.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:01 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:01 -  - TIME LoadModulesUpdates(request) 0.071 sec
+2025-02-24 21:57:01 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:01 - S - STEP
+2025-02-24 21:57:01 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:02 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:02 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:02 -  - loadFile
+2025-02-24 21:57:02 - U - RETURN
+2025-02-24 21:57:02 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:02 -  - TIME UnGzipArchive 0.032 sec
+2025-02-24 21:57:02 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423422/ui/updater24.400.0.php'
+2025-02-24 21:57:02 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423422/ui/updater24.400.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:02 -  - TIME UpdateStepModules 0.066 sec
+2025-02-24 21:57:02 - UPD_SUCCESS - Updated: ui (24.400.0)<br><li>Добавлена возможность уменьшать изображение при редактировании. <li>Время жизни QR-кода авторизации в мобильном приложении сокращено до 60 секунд.
+2025-02-24 21:57:02 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:02 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.796&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.796&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.400.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:02 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:02 -  - TIME LoadModulesUpdates(request) 0.071 sec
+2025-02-24 21:57:02 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:02 - S - STEP
+2025-02-24 21:57:02 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:02 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:02 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:02 -  - loadFile
+2025-02-24 21:57:02 - U - RETURN
+2025-02-24 21:57:02 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:02 -  - TIME UnGzipArchive 0.037 sec
+2025-02-24 21:57:02 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423422/main/updater24.0.800.php'
+2025-02-24 21:57:02 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423422/main/updater24.0.800.php': CopyFiles(install/components, components)
+2025-02-24 21:57:02 -  - TIME UpdateStepModules 0.027 sec
+2025-02-24 21:57:02 - UPD_SUCCESS - Updated: main (24.0.800)<br><li>Исправлена интерфейсная ошибка во всплывающем окне свободных слотов в форме написания письма. <li>Добавлены тарифные ограничения на добавление ссылки на свободные слоты в почте. <li>Усилена безопасность модуля.
+2025-02-24 21:57:03 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:03 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.800&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.800&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.400.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:03 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:03 -  - TIME LoadModulesUpdates(request) 0.07 sec
+2025-02-24 21:57:03 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:03 - S - STEP
+2025-02-24 21:57:03 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:03 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:03 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:03 -  - loadFile
+2025-02-24 21:57:03 - U - RETURN
+2025-02-24 21:57:03 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:03 -  - TIME UnGzipArchive 0.183 sec
+2025-02-24 21:57:03 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423423/ui/updater24.500.0.php'
+2025-02-24 21:57:03 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423423/ui/updater24.500.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:03 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423423/ui/updater24.500.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:04 -  - TIME UpdateStepModules 0.351 sec
+2025-02-24 21:57:04 - UPD_SUCCESS - Updated: ui (24.500.0)<br><li>Добавлен новый диалог выбора даты и времени (ui.date-picker). 
+2025-02-24 21:57:04 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:04 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:04 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.0.800&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.0.800&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:04 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:04 -  - TIME LoadModulesUpdates(request) 0.067 sec
+2025-02-24 21:57:04 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:04 - S - STEP
+2025-02-24 21:57:04 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:04 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:04 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:04 -  - loadFile
+2025-02-24 21:57:05 - U - RETURN
+2025-02-24 21:57:05 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:05 -  - TIME UnGzipArchive 0.245 sec
+2025-02-24 21:57:05 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423425/main/updater24.100.0.php'
+2025-02-24 21:57:05 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423425/main/updater24.100.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:05 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423425/main/updater24.100.0.php': CopyFiles(install/gadgets, gadgets)
+2025-02-24 21:57:05 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423425/main/updater24.100.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:05 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423425/main/updater24.100.0.php': CopyFiles(install/panel, panel)
+2025-02-24 21:57:05 -  - TIME UpdateStepModules 0.456 sec
+2025-02-24 21:57:05 - UPD_SUCCESS - Updated: main (24.100.0)<br><li>Оптимизирована работа тегированного кеша. <li>Оптимизирован код, связанный с переходом на UTF-8. <li>Оптимизирована производительность обновления данных пользовательских свойств. <li>Новый календарик в фильтрах гридов и панели управления. <li>Добавлена возможность скачивания результатов выполнения SQL-запроса в CSV-файл. <li>Ряд исправлений и улучшений в почтовой подсистеме. <li>Улучшена обработка ссылок для редиректов. <li>Исправления для СУБД PostgreSQL. <li>Исправлены интерфейсные ошибки. <li>Разработчикам: Query::fetchCollection() по умолчанию выбирает все скалярные поля. <li>Разработчикам: добавлен уровень журналирования http-клиента Web\\HttpDebug::CONNECT (по умолчанию включен). <li>Разработчикам: dbconn.php можно разместить в /local/php_interface; .settings.php и .settings_extra.php могут быть в /local. <li>Разработчикам: корневую папку файлового кеша можно разместить по произвольному пути, настраивается в конфигурации [\'cache\'][\'root_directory\']. <li>Разработчикам: добавлены CLI-команды make:controller и make:tablet. <li>Разработчикам: добавлена возможность запрещать кеширование в таблетах ORM. 
+2025-02-24 21:57:06 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:06 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.100.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.100.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:06 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:06 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2025-02-24 21:57:06 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:06 - S - STEP
+2025-02-24 21:57:06 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:06 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:06 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:06 -  - loadFile
+2025-02-24 21:57:06 - U - RETURN
+2025-02-24 21:57:06 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:06 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:57:06 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:57:06 - UPD_SUCCESS - Updated: main (24.100.100)<br><li>Разработчикам: актуализирован список функций агрегации в ORM.
+2025-02-24 21:57:06 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:06 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.100.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.100.100&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:06 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:06 -  - TIME LoadModulesUpdates(request) 0.071 sec
+2025-02-24 21:57:06 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:06 - S - STEP
+2025-02-24 21:57:06 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:06 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:06 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:06 -  - loadFile
+2025-02-24 21:57:06 - U - RETURN
+2025-02-24 21:57:06 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:06 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:57:06 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:57:06 - UPD_SUCCESS - Updated: main (24.150.0)<br><li>Для текстового парсера (CTextParser) добавлен новый режим вывода верстки. 
+2025-02-24 21:57:07 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:07 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:07 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.150.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.150.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:07 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:07 -  - TIME LoadModulesUpdates(request) 0.062 sec
+2025-02-24 21:57:07 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:07 - S - STEP
+2025-02-24 21:57:07 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:07 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:07 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:07 -  - loadFile
+2025-02-24 21:57:07 - U - RETURN
+2025-02-24 21:57:07 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:07 -  - TIME UnGzipArchive 0.012 sec
+2025-02-24 21:57:07 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423427/main/updater24.200.0.php'
+2025-02-24 21:57:07 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423427/main/updater24.200.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:07 -  - TIME UpdateStepModules 0.022 sec
+2025-02-24 21:57:07 - UPD_SUCCESS - Updated: main (24.200.0)<br><li>Улучшена производительность постраничной навигации.
+2025-02-24 21:57:08 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:08 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:08 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:08 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:08 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2025-02-24 21:57:08 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:08 - S - STEP
+2025-02-24 21:57:08 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:08 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:08 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:08 -  - loadFile
+2025-02-24 21:57:08 - U - RETURN
+2025-02-24 21:57:08 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:08 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:57:08 -  - TIME UpdateStepModules 0.001 sec
+2025-02-24 21:57:08 - UPD_SUCCESS - Updated: main (24.200.100)<br><li>Улучшена производительность проактивной защиты.
+2025-02-24 21:57:08 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:08 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:08 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.100&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:08 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:08 -  - TIME LoadModulesUpdates(request) 0.064 sec
+2025-02-24 21:57:08 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:08 - S - STEP
+2025-02-24 21:57:08 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:08 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:08 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:08 -  - loadFile
+2025-02-24 21:57:08 - U - RETURN
+2025-02-24 21:57:08 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:08 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:57:08 -  - TIME UpdateStepModules 0.001 sec
+2025-02-24 21:57:08 - UPD_SUCCESS - Updated: main (24.200.200)<br><li>Исправлена ошибка подтверждения почты при добавлении отправителя в административной панели. 
+2025-02-24 21:57:09 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:09 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.200&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.200&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:09 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:09 -  - TIME LoadModulesUpdates(request) 0.064 sec
+2025-02-24 21:57:09 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:09 - S - STEP
+2025-02-24 21:57:09 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:09 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:09 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:09 -  - loadFile
+2025-02-24 21:57:09 - U - RETURN
+2025-02-24 21:57:09 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:09 -  - TIME UnGzipArchive 0.003 sec
+2025-02-24 21:57:09 -  - TIME UpdateStepModules 0.005 sec
+2025-02-24 21:57:09 - UPD_SUCCESS - Updated: main (24.200.300)<br><li>Обновлена система обновлений. 
+2025-02-24 21:57:09 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:09 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.300&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:09 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:10 -  - TIME LoadModulesUpdates(request) 0.075 sec
+2025-02-24 21:57:10 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:10 - S - STEP
+2025-02-24 21:57:10 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:10 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:10 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:10 -  - loadFile
+2025-02-24 21:57:10 - U - RETURN
+2025-02-24 21:57:10 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:10 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:57:10 -  - TIME UpdateStepModules 0.001 sec
+2025-02-24 21:57:10 - UPD_SUCCESS - Updated: main (24.200.400)<br><li>Исправлена ошибка создания файла .size при работе сайта в композитном режиме. 
+2025-02-24 21:57:10 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:10 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:10 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.400&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.400&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.0&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:10 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:10 -  - TIME LoadModulesUpdates(request) 0.059 sec
+2025-02-24 21:57:10 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:10 - S - STEP
+2025-02-24 21:57:10 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:11 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:11 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:11 -  - loadFile
+2025-02-24 21:57:11 - U - RETURN
+2025-02-24 21:57:11 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:11 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:57:11 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:57:11 - UPD_SUCCESS - Updated: security (24.0.100)<br><li>Исправлены интерфейсные ошибки в \"Мониторе активной защиты\".
+2025-02-24 21:57:11 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:11 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:11 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.400&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.400&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.500.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:11 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:11 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2025-02-24 21:57:11 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:11 - S - STEP
+2025-02-24 21:57:11 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:11 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:11 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:11 -  - loadFile
+2025-02-24 21:57:11 - U - RETURN
+2025-02-24 21:57:11 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:12 -  - TIME UnGzipArchive 0.203 sec
+2025-02-24 21:57:12 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423431/ui/updater24.600.0.php'
+2025-02-24 21:57:12 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1740423431/ui/updater24.600.0.php': Query(
+			alter table b_ui_entity_editor_config 
+			add column OPTION_CATEGORY varchar(50) not null default 'crm.entity.editor',
+			add column AUTO_APPLY_SCOPE varchar(1) not null default 'N'
+		, )
+2025-02-24 21:57:12 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1740423431/ui/updater24.600.0.php': Query(
+		alter table b_ui_entity_editor_config
+		alter column OPTION_CATEGORY drop default
+	, )
+2025-02-24 21:57:12 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423431/ui/updater24.600.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:12 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423431/ui/updater24.600.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:12 -  - TIME UpdateStepModules 0.373 sec
+2025-02-24 21:57:12 - UPD_SUCCESS - Updated: ui (24.600.0)<br><li>Возможность применить представление в карточках crm подразделениям орг. структуры и группам соц. сети. <li>Обновлена библиотека Vue 3 и связанные с ней модули (Vue 3.5.4, Vuex 4.1.0, Pinia 2.2.2, Vue-router 4.4.4).
+2025-02-24 21:57:12 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:12 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:12 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.400&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.400&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.600.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:12 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:13 -  - TIME LoadModulesUpdates(request) 0.078 sec
+2025-02-24 21:57:13 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:13 - S - STEP
+2025-02-24 21:57:13 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:13 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:13 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:13 -  - loadFile
+2025-02-24 21:57:13 - U - RETURN
+2025-02-24 21:57:13 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:13 -  - TIME UnGzipArchive 0.056 sec
+2025-02-24 21:57:13 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423433/ui/updater24.700.0.php'
+2025-02-24 21:57:13 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423433/ui/updater24.700.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:13 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423433/ui/updater24.700.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:13 -  - TIME UpdateStepModules 0.102 sec
+2025-02-24 21:57:13 - UPD_SUCCESS - Updated: ui (24.700.0)<br><li>Исправлены ошибки в форматировании текста в визуальном редакторе. 
+2025-02-24 21:57:13 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:13 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:13 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.400&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.400&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.700.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:13 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:13 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2025-02-24 21:57:13 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:13 - S - STEP
+2025-02-24 21:57:13 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:14 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:14 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:14 -  - loadFile
+2025-02-24 21:57:14 - U - RETURN
+2025-02-24 21:57:14 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:14 -  - TIME UnGzipArchive 0 sec
+2025-02-24 21:57:14 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423434/ui/updater24.700.100.php'
+2025-02-24 21:57:14 -  - TIME UpdateStepModules 0.001 sec
+2025-02-24 21:57:14 - UPD_SUCCESS - Updated: ui (24.700.100)<br><li>Исправлена ошибка, при которой ломался чат из-за подключения неактуальных файлов старых версий. 
+2025-02-24 21:57:14 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:14 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.400&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.400&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.700.100&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:14 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:14 -  - TIME LoadModulesUpdates(request) 0.071 sec
+2025-02-24 21:57:14 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:14 - S - STEP
+2025-02-24 21:57:14 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:14 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:14 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:14 -  - loadFile
+2025-02-24 21:57:14 - U - RETURN
+2025-02-24 21:57:14 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:14 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:57:14 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423434/ui/updater24.700.200.php'
+2025-02-24 21:57:14 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423434/ui/updater24.700.200.php': CopyFiles(install/js, js)
+2025-02-24 21:57:14 -  - TIME UpdateStepModules 0.003 sec
+2025-02-24 21:57:14 - UPD_SUCCESS - Updated: ui (24.700.200)<br><li>Исправлена ошибка отображение картинок в просмотрщике файлов. 
+2025-02-24 21:57:15 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:15 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:15 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.400&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.400&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.700.200&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:15 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:15 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2025-02-24 21:57:15 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:15 - S - STEP
+2025-02-24 21:57:15 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:15 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:15 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:15 -  - loadFile
+2025-02-24 21:57:15 - U - RETURN
+2025-02-24 21:57:15 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:15 -  - TIME UnGzipArchive 0.079 sec
+2025-02-24 21:57:15 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423435/ui/updater24.800.0.php'
+2025-02-24 21:57:15 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423435/ui/updater24.800.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:15 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423435/ui/updater24.800.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:15 -  - TIME UpdateStepModules 0.144 sec
+2025-02-24 21:57:15 - UPD_SUCCESS - Updated: ui (24.800.0)<br><li>Добавлено новое расширение ui.avatar. <li>Добавлена возможность контролировать показ хинта, убирая атрибут в ui.hint. <li>Поддержка нового режима копилота в ui.text-editor. <li>Новый плагин \"Удалить форматирование\" ui.text-editor. <li>Добавились новые иконки в набор main ui.icon-set.
+2025-02-24 21:57:16 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:16 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.200.400&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.200.400&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.800.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:16 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:16 -  - TIME LoadModulesUpdates(request) 0.074 sec
+2025-02-24 21:57:16 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:16 - S - STEP
+2025-02-24 21:57:16 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:16 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:16 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:16 -  - loadFile
+2025-02-24 21:57:16 - U - RETURN
+2025-02-24 21:57:16 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:16 -  - TIME UnGzipArchive 0.104 sec
+2025-02-24 21:57:16 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423436/main/updater24.300.0.php'
+2025-02-24 21:57:16 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1740423436/main/updater24.300.0.php': Query(CREATE INDEX ix_b_lang_def_active ON b_lang (DEF, ACTIVE), )
+2025-02-24 21:57:16 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423436/main/updater24.300.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:16 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423436/main/updater24.300.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:16 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423436/main/updater24.300.0.php': CopyFiles(install/tools, tools)
+2025-02-24 21:57:16 -  - TIME UpdateStepModules 0.181 sec
+2025-02-24 21:57:16 - UPD_SUCCESS - Updated: main (24.300.0)<br><li>Прекращена поддержка URL и файлов с названием не в кодировке UTF-8. <li>Доработки и исправления в ORM. <li>Исправления для PostgreSQL. <li>Исправлены интерфейсные ошибки. <li>Разработчикам: добавлены валидаторы (namespace Bitrix\\Main\\Validation), в т.ч. валидация на атрибутах PHP. <li>Разработчикам: обновлены библиотеки Vue 3 (и связанные с ней) до актуальных версий. 
+2025-02-24 21:57:16 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:16 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:17 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.300.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.300.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.800.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:17 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:17 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2025-02-24 21:57:17 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:17 - S - STEP
+2025-02-24 21:57:17 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:17 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:17 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:17 -  - loadFile
+2025-02-24 21:57:17 - U - RETURN
+2025-02-24 21:57:17 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:17 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:57:17 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:57:17 - UPD_SUCCESS - Updated: main (24.300.100)<br><li>Исправлены некоторые сценарии отправки почты с OAuth-авторизацией. 
+2025-02-24 21:57:17 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:17 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:17 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.300.100&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.800.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:17 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:17 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2025-02-24 21:57:17 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:17 - S - STEP
+2025-02-24 21:57:17 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:18 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:18 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:18 -  - loadFile
+2025-02-24 21:57:18 - U - RETURN
+2025-02-24 21:57:18 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:18 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:57:18 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:57:18 - UPD_SUCCESS - Updated: main (24.300.200)<br><li>Исправлена ошибка в проверке системы для теста \"Формат хранения таблиц в БД\". 
+2025-02-24 21:57:18 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:18 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.300.200&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.300.200&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.800.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:18 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:18 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2025-02-24 21:57:18 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:18 - S - STEP
+2025-02-24 21:57:18 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:18 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:18 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:18 -  - loadFile
+2025-02-24 21:57:18 - U - RETURN
+2025-02-24 21:57:18 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:18 -  - TIME UnGzipArchive 0.001 sec
+2025-02-24 21:57:18 -  - TIME UpdateStepModules 0.001 sec
+2025-02-24 21:57:18 - UPD_SUCCESS - Updated: main (24.300.250)<br><li>Исправлена ошибка в подсчете лицензированных пользователей.
+2025-02-24 21:57:19 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:19 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:19 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.300.250&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.300.250&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.800.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:19 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:19 -  - TIME LoadModulesUpdates(request) 0.061 sec
+2025-02-24 21:57:19 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:19 - S - STEP
+2025-02-24 21:57:19 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:19 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:19 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:19 -  - loadFile
+2025-02-24 21:57:19 - U - RETURN
+2025-02-24 21:57:19 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:19 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:57:19 -  - TIME UpdateStepModules 0.002 sec
+2025-02-24 21:57:19 - UPD_SUCCESS - Updated: main (24.300.300)<br><li>Для текстового парсера (CTextParser) улучшена поддержка видео с YouTube и Vimeo. 
+2025-02-24 21:57:19 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:19 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:19 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.300.300&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.800.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:19 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:19 -  - TIME LoadModulesUpdates(request) 0.062 sec
+2025-02-24 21:57:19 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:19 - S - STEP
+2025-02-24 21:57:19 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:19 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:19 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:19 -  - loadFile
+2025-02-24 21:57:20 - U - RETURN
+2025-02-24 21:57:20 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:20 -  - TIME UnGzipArchive 0.008 sec
+2025-02-24 21:57:20 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423440/main/updater24.350.0.php'
+2025-02-24 21:57:20 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423440/main/updater24.350.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:20 -  - TIME UpdateStepModules 0.013 sec
+2025-02-24 21:57:20 - UPD_SUCCESS - Updated: main (24.350.0)<br><li>Новые почтовые получатели.
+2025-02-24 21:57:20 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:20 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:20 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.800.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:20 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:20 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2025-02-24 21:57:20 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:20 - S - STEP
+2025-02-24 21:57:20 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:20 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:20 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:20 -  - loadFile
+2025-02-24 21:57:20 - U - RETURN
+2025-02-24 21:57:20 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:20 -  - TIME UnGzipArchive 0.046 sec
+2025-02-24 21:57:20 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423440/ui/updater24.900.0.php'
+2025-02-24 21:57:20 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423440/ui/updater24.900.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:20 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423440/ui/updater24.900.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:20 -  - TIME UpdateStepModules 0.1 sec
+2025-02-24 21:57:20 - UPD_SUCCESS - Updated: ui (24.900.0)<br><li>Улучшен интерфейс редактирования прав доступа.
+2025-02-24 21:57:21 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:21 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:21 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.900.0&bitm_landing=24.400.300&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:21 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:21 -  - TIME LoadModulesUpdates(request) 0.067 sec
+2025-02-24 21:57:21 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:21 - S - STEP
+2025-02-24 21:57:21 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:21 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:21 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:21 -  - loadFile
+2025-02-24 21:57:22 - U - RETURN
+2025-02-24 21:57:22 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:23 -  - TIME UnGzipArchive 0.592 sec
+2025-02-24 21:57:23 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423442/landing/updater24.500.0.php'
+2025-02-24 21:57:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423442/landing/updater24.500.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423442/landing/updater24.500.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423442/landing/updater24.500.0.php': CopyFiles(install/blocks, blocks)
+2025-02-24 21:57:24 -  - TIME UpdateStepModules 0.94 sec
+2025-02-24 21:57:24 - UPD_SUCCESS - Updated: landing (24.500.0)<br><li>Добавлен функционал \"Главной страницы портала\" (\"Наш вайб\"). <li>Исправлены незначительные неполадки в копилоте в сайтах. 
+2025-02-24 21:57:24 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:24 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.900.0&bitm_landing=24.500.0&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:24 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:24 -  - TIME LoadModulesUpdates(request) 0.061 sec
+2025-02-24 21:57:24 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:24 - S - STEP
+2025-02-24 21:57:24 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:24 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:24 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:24 -  - loadFile
+2025-02-24 21:57:24 - U - RETURN
+2025-02-24 21:57:24 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:24 -  - TIME UnGzipArchive 0.07 sec
+2025-02-24 21:57:24 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423444/landing/updater24.600.0.php'
+2025-02-24 21:57:24 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423444/landing/updater24.600.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:24 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423444/landing/updater24.600.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:24 -  - TIME UpdateStepModules 0.156 sec
+2025-02-24 21:57:24 - UPD_SUCCESS - Updated: landing (24.600.0)<br><li>Исправлено открытие ссылок в виджете \"Бизнес-процессы\" на главной странице портала (\"Наш вайб\"). <li>Исправлена работа кнопки копирования ссылки в шапке редактора сайта. <li>Различные улучшение и исправления в \"Нашем вайбе\".
+2025-02-24 21:57:25 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:25 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:25 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.900.0&bitm_landing=24.600.0&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:25 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:25 -  - TIME LoadModulesUpdates(request) 0.072 sec
+2025-02-24 21:57:25 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:25 - S - STEP
+2025-02-24 21:57:25 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:25 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:25 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:25 -  - loadFile
+2025-02-24 21:57:25 - U - RETURN
+2025-02-24 21:57:25 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:25 -  - TIME UnGzipArchive 0.084 sec
+2025-02-24 21:57:25 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423445/landing/updater24.700.0.php'
+2025-02-24 21:57:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423445/landing/updater24.700.0.php': CopyFiles(install/blocks, blocks)
+2025-02-24 21:57:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423445/landing/updater24.700.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423445/landing/updater24.700.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:25 -  - TIME UpdateStepModules 0.147 sec
+2025-02-24 21:57:25 - UPD_SUCCESS - Updated: landing (24.700.0)<br><li>Для сторонних разработчиков стал доступен функционал создания виджетов для \"Вайба\". <li>Оптимизация некоторых запросов к базе данных в \"Сайтах\". <li>Исправлены незначительные ошибки в виджетах \"Вайба\". <li>Исправлены незначительные ошибки в Копилоте в \"Сайтах\". 
+2025-02-24 21:57:26 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:26 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.900.0&bitm_landing=24.700.0&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:26 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:26 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2025-02-24 21:57:26 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:26 - S - STEP
+2025-02-24 21:57:26 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:26 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:26 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:26 -  - loadFile
+2025-02-24 21:57:26 - U - RETURN
+2025-02-24 21:57:26 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:26 -  - TIME UnGzipArchive 0.002 sec
+2025-02-24 21:57:26 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423446/landing/updater24.700.100.php'
+2025-02-24 21:57:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423446/landing/updater24.700.100.php': CopyFiles(install/js, js)
+2025-02-24 21:57:26 -  - TIME UpdateStepModules 0.01 sec
+2025-02-24 21:57:26 - UPD_SUCCESS - Updated: landing (24.700.100)<br><li>Исправлена ошибка, из-за которой было невозможно вставить ссылку на видео из VK в настройках блока в редакторе. 
+2025-02-24 21:57:26 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:26 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.100.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.900.0&bitm_landing=24.700.100&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:26 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:26 -  - TIME LoadModulesUpdates(request) 0.066 sec
+2025-02-24 21:57:26 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:26 - S - STEP
+2025-02-24 21:57:26 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:27 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:27 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:27 -  - loadFile
+2025-02-24 21:57:27 - U - RETURN
+2025-02-24 21:57:27 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:27 -  - TIME UnGzipArchive 0.01 sec
+2025-02-24 21:57:27 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423447/location/updater24.200.0/index.php'
+2025-02-24 21:57:27 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423447/location/updater24.200.0/index.php': CopyFiles(install/js, js)
+2025-02-24 21:57:27 -  - TIME UpdateStepModules 0.015 sec
+2025-02-24 21:57:27 - UPD_SUCCESS - Updated: location (24.200.0)<br><li>Исправлена ошибка \"В модуле location модифицированы файлы\".
+2025-02-24 21:57:27 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:27 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:27 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=24.200.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.900.0&bitm_landing=24.700.100&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:27 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:27 -  - TIME LoadModulesUpdates(request) 0.06 sec
+2025-02-24 21:57:27 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:27 - S - STEP
+2025-02-24 21:57:27 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:27 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:27 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:27 -  - loadFile
+2025-02-24 21:57:28 - U - RETURN
+2025-02-24 21:57:28 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:28 -  - TIME UnGzipArchive 0.069 sec
+2025-02-24 21:57:28 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423448/location/updater25.0.0/index.php'
+2025-02-24 21:57:28 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423448/location/updater25.0.0/index.php': CopyFiles(install/js, js)
+2025-02-24 21:57:28 -  - TIME UpdateStepModules 0.066 sec
+2025-02-24 21:57:28 - UPD_SUCCESS - Updated: location (25.0.0)<br><li>Улучшен интерфейс работы с картой OpenStreetMap. 
+2025-02-24 21:57:28 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:28 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.900.0&bitm_landing=24.700.100&bitm_fileman=24.300.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:28 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:28 -  - TIME LoadModulesUpdates(request) 0.078 sec
+2025-02-24 21:57:28 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:28 - S - STEP
+2025-02-24 21:57:28 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:28 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:28 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:28 -  - loadFile
+2025-02-24 21:57:28 - U - RETURN
+2025-02-24 21:57:28 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:29 -  - TIME UnGzipArchive 0.106 sec
+2025-02-24 21:57:29 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423448/ui/updater24.1000.0.php'
+2025-02-24 21:57:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423448/ui/updater24.1000.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423448/ui/updater24.1000.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:29 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423448/fileman/updater24.400.0.php'
+2025-02-24 21:57:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423448/fileman/updater24.400.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:29 -  - TIME UpdateStepModules 0.229 sec
+2025-02-24 21:57:29 - UPD_SUCCESS - Updated: fileman (24.400.0)<br><li>Новая версия видеоплеера. <li>Переработан компонент bitrix:player. 
+2025-02-24 21:57:29 - UPD_SUCCESS - Updated: ui (24.1000.0)<br><li>Новая версия видеоплеера (ui.video-player). 
+2025-02-24 21:57:29 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:29 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:29 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1000.0&bitm_landing=24.700.100&bitm_fileman=24.400.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:29 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:29 -  - TIME LoadModulesUpdates(request) 0.062 sec
+2025-02-24 21:57:29 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:29 - S - STEP
+2025-02-24 21:57:29 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:29 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:29 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:29 -  - loadFile
+2025-02-24 21:57:29 - U - RETURN
+2025-02-24 21:57:29 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:29 -  - TIME UnGzipArchive 0.013 sec
+2025-02-24 21:57:29 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423449/fileman/updater24.500.0.php'
+2025-02-24 21:57:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423449/fileman/updater24.500.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423449/fileman/updater24.500.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:29 -  - TIME UpdateStepModules 0.021 sec
+2025-02-24 21:57:29 - UPD_SUCCESS - Updated: fileman (24.500.0)<br><li>Исправлена ошибка со вставкой видео из Rutube и YouTube. <li>Исправлена ошибка с переносом строки в браузере Firefox. 
+2025-02-24 21:57:30 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:30 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1000.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:30 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:30 -  - TIME LoadModulesUpdates(request) 0.064 sec
+2025-02-24 21:57:30 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:30 - S - STEP
+2025-02-24 21:57:30 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:30 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:30 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:30 -  - loadFile
+2025-02-24 21:57:30 - U - RETURN
+2025-02-24 21:57:30 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:30 -  - TIME UnGzipArchive 0.013 sec
+2025-02-24 21:57:30 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423450/ui/updater24.1000.100.php'
+2025-02-24 21:57:30 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423450/ui/updater24.1000.100.php': CopyFiles(install/js, js)
+2025-02-24 21:57:30 -  - TIME UpdateStepModules 0.023 sec
+2025-02-24 21:57:30 - UPD_SUCCESS - Updated: ui (24.1000.100)<br><li>Улучшена совместимость с другими модулями. 
+2025-02-24 21:57:31 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:31 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:31 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1000.100&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:31 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:31 -  - TIME LoadModulesUpdates(request) 0.065 sec
+2025-02-24 21:57:31 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:31 - S - STEP
+2025-02-24 21:57:31 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:31 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:31 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:31 -  - loadFile
+2025-02-24 21:57:31 - U - RETURN
+2025-02-24 21:57:31 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:31 -  - TIME UnGzipArchive 0.094 sec
+2025-02-24 21:57:31 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423451/ui/updater24.1100.0.php'
+2025-02-24 21:57:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423451/ui/updater24.1100.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423451/ui/updater24.1100.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:31 -  - TIME UpdateStepModules 0.183 sec
+2025-02-24 21:57:31 - UPD_SUCCESS - Updated: ui (24.1100.0)<br><li>Разработчикам: ui-image-stack-steps: добавлен тип элемента стека \"Счетчик\", добавлена возможность не указывать заголовок и подвал шага. <li>Новый интерфейс просмотрщика файлов (ui.viewer). 
+2025-02-24 21:57:32 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:32 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1100.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:32 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:32 -  - TIME LoadModulesUpdates(request) 0.063 sec
+2025-02-24 21:57:32 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:32 - S - STEP
+2025-02-24 21:57:32 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:32 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:32 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:32 -  - loadFile
+2025-02-24 21:57:32 - U - RETURN
+2025-02-24 21:57:32 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:32 -  - TIME UnGzipArchive 0.02 sec
+2025-02-24 21:57:32 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423452/ui/updater24.1150.0.php'
+2025-02-24 21:57:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423452/ui/updater24.1150.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423452/ui/updater24.1150.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:32 -  - TIME UpdateStepModules 0.048 sec
+2025-02-24 21:57:32 - UPD_SUCCESS - Updated: ui (24.1150.0)<br><li>Улучшен внешний вид интерфейса настройки прав доступа.
+2025-02-24 21:57:32 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:32 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1150.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:32 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:32 -  - TIME LoadModulesUpdates(request) 0.068 sec
+2025-02-24 21:57:32 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:32 - S - STEP
+2025-02-24 21:57:32 - LMU01 - LoadModulesUpdates-Step
+2025-02-24 21:57:33 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:33 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:33 -  - loadFile
+2025-02-24 21:57:33 - U - RETURN
+2025-02-24 21:57:33 -  - exec CUpdateClient::UnGzipArchive
+2025-02-24 21:57:33 -  - TIME UnGzipArchive 0.099 sec
+2025-02-24 21:57:33 - CSURUS1 - Run updater '/bitrix/updates/update_m1740423453/ui/updater24.1200.0.php'
+2025-02-24 21:57:33 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423453/ui/updater24.1200.0.php': CopyFiles(install/components, components)
+2025-02-24 21:57:33 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1740423453/ui/updater24.1200.0.php': CopyFiles(install/js, js)
+2025-02-24 21:57:33 -  - TIME UpdateStepModules 0.188 sec
+2025-02-24 21:57:33 - UPD_SUCCESS - Updated: ui (24.1200.0)<br><li>Улучшена поддержка проигрывания видео в просмотрщике файлов. <li>Исправлена ошибка вставки лишних переводов строк из буфера обмена в текстовом редакторе. 
+2025-02-24 21:57:33 -  - exec CUpdateClient::LoadModulesUpdates
+2025-02-24 21:57:33 -  - exec CUpdateClient::CollectRequestData
+2025-02-24 21:57:33 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-24 21:57:33 -  - exec CUpdateClient::GetHTTPPage
+2025-02-24 21:57:33 -  - TIME LoadModulesUpdates(request) 0.061 sec
+2025-02-24 21:57:33 -  - exec CUpdateClient::ParseServerData
+2025-02-24 21:57:33 - STEP - Finish - NOUPDATES
+2025-02-24 21:57:33 - STEP - Finish - NOUPDATES
+2025-02-25 13:10:25 -  - exec CUpdateClient::GetUpdatesList
+2025-02-25 13:10:25 -  - exec CUpdateClient::CollectRequestData
+2025-02-25 13:10:25 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-25 13:10:25 -  - exec CUpdateClient::GetHTTPPage
+2025-02-25 13:10:25 -  - TIME GetUpdatesList(request) 0.095 sec
+2025-02-25 13:10:25 -  - exec CUpdateClient::ParseServerData
+2025-02-25 13:10:51 -  - exec CUpdateClient::RegisterVersion
+2025-02-25 13:10:51 -  - exec CUpdateClient::CollectRequestData
+2025-02-25 13:10:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=register
+2025-02-25 13:10:51 -  - exec CUpdateClient::GetHTTPPage
+2025-02-25 13:10:51 -  - TIME RegisterVersion(request) 0.067 sec
+2025-02-25 13:10:51 -  - exec CUpdateClient::UnGzipArchive
+2025-02-25 13:10:51 -  - TIME UnGzipArchive 0.001 sec
+2025-02-25 13:10:51 -  - exec CUpdateClient::ParseServerData
+2025-02-25 13:10:51 - CURV - Product registered successfully!
+2025-02-25 13:10:51 - UPD_SUCCESS - Registered
+2025-02-25 13:11:03 -  - exec CUpdateClient::GetUpdatesList
+2025-02-25 13:11:03 -  - exec CUpdateClient::CollectRequestData
+2025-02-25 13:11:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-25 13:11:03 -  - exec CUpdateClient::GetHTTPPage
+2025-02-25 13:11:04 -  - TIME GetUpdatesList(request) 0.175 sec
+2025-02-25 13:11:04 -  - exec CUpdateClient::ParseServerData
+2025-02-25 13:11:08 -  - exec CUpdateClient::GetUpdatesList
+2025-02-25 13:11:08 -  - exec CUpdateClient::CollectRequestData
+2025-02-25 13:11:08 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-25 13:11:08 -  - exec CUpdateClient::GetHTTPPage
+2025-02-25 13:11:08 -  - TIME GetUpdatesList(request) 0.116 sec
+2025-02-25 13:11:08 -  - exec CUpdateClient::ParseServerData
+2025-02-25 13:11:12 -  - exec CUpdateClient::GetUpdatesList
+2025-02-25 13:11:12 -  - exec CUpdateClient::CollectRequestData
+2025-02-25 13:11:12 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-25 13:11:12 -  - exec CUpdateClient::GetHTTPPage
+2025-02-25 13:11:12 -  - TIME GetUpdatesList(request) 0.092 sec
+2025-02-25 13:11:12 -  - exec CUpdateClient::ParseServerData
+2025-02-25 13:11:19 -  - exec CUpdateClient::GetUpdatesList
+2025-02-25 13:11:19 -  - exec CUpdateClient::CollectRequestData
+2025-02-25 13:11:19 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-25 13:11:19 -  - exec CUpdateClient::GetHTTPPage
+2025-02-25 13:11:19 -  - TIME GetUpdatesList(request) 0.08 sec
+2025-02-25 13:11:19 -  - exec CUpdateClient::ParseServerData
+2025-02-25 13:11:31 -  - exec CUpdateClient::GetUpdatesList
+2025-02-25 13:11:31 -  - exec CUpdateClient::CollectRequestData
+2025-02-25 13:11:31 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-25 13:11:31 -  - exec CUpdateClient::GetHTTPPage
+2025-02-25 13:11:32 -  - TIME GetUpdatesList(request) 0.087 sec
+2025-02-25 13:11:32 -  - exec CUpdateClient::ParseServerData
+2025-02-25 13:11:41 -  - exec CUpdateClient::GetUpdatesList
+2025-02-25 13:11:41 -  - exec CUpdateClient::CollectRequestData
+2025-02-25 13:11:41 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-25 13:11:41 -  - exec CUpdateClient::GetHTTPPage
+2025-02-25 13:11:41 -  - TIME GetUpdatesList(request) 0.095 sec
+2025-02-25 13:11:41 -  - exec CUpdateClient::ParseServerData
+2025-02-25 13:11:51 -  - exec CUpdateClient::GetUpdatesList
+2025-02-25 13:11:51 -  - exec CUpdateClient::CollectRequestData
+2025-02-25 13:11:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-25 13:11:51 -  - exec CUpdateClient::GetHTTPPage
+2025-02-25 13:11:51 -  - TIME GetUpdatesList(request) 0.092 sec
+2025-02-25 13:11:51 -  - exec CUpdateClient::ParseServerData
+2025-02-27 22:21:41 -  - exec CUpdateClient::GetUpdatesList
+2025-02-27 22:21:41 -  - exec CUpdateClient::CollectRequestData
+2025-02-27 22:21:41 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-27 22:21:41 -  - exec CUpdateClient::GetHTTPPage
+2025-02-27 22:21:41 -  - TIME GetUpdatesList(request) 0.088 sec
+2025-02-27 22:21:41 -  - exec CUpdateClient::ParseServerData
+2025-02-27 22:25:40 -  - exec CUpdateClient::GetUpdatesList
+2025-02-27 22:25:40 -  - exec CUpdateClient::CollectRequestData
+2025-02-27 22:25:40 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-27 22:25:40 -  - exec CUpdateClient::GetHTTPPage
+2025-02-27 22:25:40 -  - TIME GetUpdatesList(request) 0.078 sec
+2025-02-27 22:25:40 -  - exec CUpdateClient::ParseServerData
+2025-02-27 22:41:36 -  - exec CUpdateClient::GetUpdatesList
+2025-02-27 22:41:36 -  - exec CUpdateClient::CollectRequestData
+2025-02-27 22:41:36 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=uropro.webiew.ru&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-02-27 22:41:36 -  - exec CUpdateClient::GetHTTPPage
+2025-02-27 22:41:36 -  - TIME GetUpdatesList(request) 0.083 sec
+2025-02-27 22:41:36 -  - exec CUpdateClient::ParseServerData
+2025-03-03 11:03:03 -  - exec CUpdateClient::GetUpdatesList
+2025-03-03 11:03:03 -  - exec CUpdateClient::CollectRequestData
+2025-03-03 11:03:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=long-sex.com&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-03-03 11:03:03 -  - exec CUpdateClient::GetHTTPPage
+2025-03-03 11:03:04 -  - TIME GetUpdatesList(request) 0.116 sec
+2025-03-03 11:03:04 -  - exec CUpdateClient::ParseServerData
+2025-03-03 11:03:04 -  - exec CUpdateClient::executeCounters
+2025-03-03 11:03:04 -  - exec CUpdateClient::CollectRequestData
+2025-03-03 11:03:04 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=long-sex.com&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[442]=
+2025-03-03 11:03:04 -  - exec CUpdateClient::GetHTTPPage
+2025-03-03 11:03:04 -  - TIME executeCounters 0.098 sec
+2025-03-03 11:03:48 -  - exec CUpdateClient::GetUpdatesList
+2025-03-03 11:03:48 -  - exec CUpdateClient::CollectRequestData
+2025-03-03 11:03:48 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=long-sex.com&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-03-03 11:03:48 -  - exec CUpdateClient::GetHTTPPage
+2025-03-03 11:03:48 -  - TIME GetUpdatesList(request) 0.163 sec
+2025-03-03 11:03:48 -  - exec CUpdateClient::ParseServerData
+2025-03-03 11:11:01 -  - exec CUpdateClient::GetUpdatesList
+2025-03-03 11:11:01 -  - exec CUpdateClient::CollectRequestData
+2025-03-03 11:11:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.200.300&VERSION=24.350.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=long-sex.com&SERVER_NAME=long-sex.com&CHHB=long-sex.com&CSAB=127.0.0.1&SUID=v4xjrzd84nnua15tub41l78hvobs6q54&CANGZIP=Y&CLIENT_PHPVER=8.2.27&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=24.350.0&bitm_rest=24.700.0&bitm_perfmon=24.100.0&bitm_location=25.0.0&bitm_highloadblock=24.0.201&bitm_socialservices=24.100.0&bitm_messageservice=24.900.0&bitm_security=24.0.100&bitm_translate=24.100.0&bitm_clouds=24.400.0&bitm_ui=24.1200.0&bitm_landing=24.700.100&bitm_fileman=24.500.0&bitm_search=24.0.0&bitm_bitrixcloud=24.100.0&bitm_iblock=24.200.0&bitm_seo=24.600.100&bitm_b24connector=24.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2025-03-03 11:11:01 -  - exec CUpdateClient::GetHTTPPage
+2025-03-03 11:11:01 -  - TIME GetUpdatesList(request) 0.134 sec
+2025-03-03 11:11:01 -  - exec CUpdateClient::ParseServerData

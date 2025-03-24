@@ -1,0 +1,90 @@
+
+
+#php_flag display_startup_errors off
+#php_flag display_errors off
+#php_flag html_errors off
+#php_value request_order "GP"
+#php_value max_input_vars 10000
+#php_value max_file_uploads 500
+
+<IfModule mod_rewrite8.c>
+
+</IfModule>
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+  RewriteEngine On
+
+  #https
+    RewriteCond %{HTTPS} off
+    RewriteCond %{HTTP:X-Forwarded-Proto} !https
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    #повторяющиеся /
+    RewriteCond %{REQUEST_URI} ^(.*?)\/{2,}(.*?)$
+    RewriteRule . %1/%2 [L,R=301]
+    RewriteCond %{THE_REQUEST} //
+    RewriteRule .* /$0 [R=301,L]
+
+    #слеши в конце  // с ними больше проблем - редиректы перестают работать
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_URI} !(.*)/$
+    RewriteCond %{REQUEST_URI} !^/catalog/compare.php$
+    RewriteRule ^(.*[^/])$ $1/ [L,R=301]
+
+    #www
+    RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+    RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+    # index.php index.html
+    #RewriteRule ^index.php / [R=301,L]
+    #RewriteRule ^index.html / [R=301,L]
+
+    RewriteCond %{THE_REQUEST} /(.*)index.php.*$
+    RewriteCond %{THE_REQUEST} !bitrix/admin/
+    RewriteRule .* /%1 [R=301,L]
+
+    RewriteCond %{THE_REQUEST} /(.*)index.html.*$
+    RewriteCond %{THE_REQUEST} !bitrix/admin/
+    RewriteRule .* /%1 [R=301,L]
+
+
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+  RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+  RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+
+  	RewriteCond %{HTTP_HOST} ^www\.long-sex\.info$ [NC]
+
+	RewriteRule ^(.*)$ http://long-sex.com/$1 [L,R=301]
+
+	RewriteCond %{HTTP_HOST} ^long-sex\.info$ [NC]
+
+	RewriteRule ^(.*)$ http://long-sex.com/$1 [L,R=301]
+
+	RewriteCond %{HTTP_HOST} ^www\.long-sex\.shop$ [NC]
+
+	RewriteRule ^(.*)$ http://long-sex.com/$1 [L,R=301]
+
+	RewriteCond %{HTTP_HOST} ^long-sex\.shop$ [NC]
+
+	RewriteRule ^(.*)$ http://long-sex.com/$1 [L,R=301]
+
+</IfModule>
+
+<IfModule mod_dir.c>
+  DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresByType image/jpeg "access plus 3 day"
+  ExpiresByType image/gif "access plus 3 day"
+  ExpiresByType image/png "access plus 3 day"
+  ExpiresByType text/css "access plus 3 day"
+  ExpiresByType application/javascript "access plus 3 day"
+</IfModule>
+
+
